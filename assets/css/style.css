@@ -1,6 +1,6 @@
 body {
   font-family: 'Istok Web', sans-serif;
-  background: url("court.png") center center no-repeat;
+  background: url("../images/court.png") center center no-repeat;
   background-size: cover;
   color: #262626;
   height: 100%;
